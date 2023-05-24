@@ -1,12 +1,12 @@
 [submodule "ZTM-NodeJSDev-2023"]
 	path = ZTM-NodeJSDev-2023
 	url = https://github.com/vonschappler/ZTM-NodeJSDev-2023
-[submodule "Web-Design-HTML5-css"]
-	path = Web-Design-HTML5-css
-	url = https://github.com/vonschappler/Web-Design-HTML5-css
 [submodule "Web-Bootcamp"]
 	path = Web-Bootcamp
 	url = https://github.com/vonschappler/Web-Bootcamp.git
 [submodule "Node-Express-MongoDB-2023"]
 	path = Node-Express-MongoDB-2023
 	url = https://github.com/vonschappler/Node-Express-MongoDB-2023.git
+[submodule "Web-Design-HTML5-css"]
+	path = Web-Design-HTML5-css
+	url = https://github.com/vonschappler/Web-Design-HTML5-css

@@ -20,4 +20,4 @@ The code of this course can be found [here](https://github.com/vonschappler/ZTM-
 
 This couse, lectured by Jonas Schmedtmann, teaches the basics of webdesing, using the technologies HTML5 and CSS.
 
-The code of this course can be found [here](https://github.com/vonschappler/Web-Design-HTML5-css)
+The code of this course can be found [here](https://github.com/vonschappler/Web-Design-HTML5-css).

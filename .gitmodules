@@ -7,3 +7,6 @@
 [submodule "Web-Bootcamp"]
 	path = Web-Bootcamp
 	url = https://github.com/vonschappler/Web-Bootcamp.git
+[submodule "Node-Express-MongoDB-2023"]
+	path = Node-Express-MongoDB-2023
+	url = https://github.com/vonschappler/Node-Express-MongoDB-2023.git

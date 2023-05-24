@@ -1,3 +1,6 @@
 [submodule "ZTM-NodeJSDev-2023"]
 	path = ZTM-NodeJSDev-2023
 	url = https://github.com/vonschappler/ZTM-NodeJSDev-2023
+[submodule "Web-Design-HTML5-css"]
+	path = Web-Design-HTML5-css
+	url = https://github.com/vonschappler/Web-Design-HTML5-css

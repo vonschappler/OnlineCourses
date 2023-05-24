@@ -16,6 +16,15 @@ The code of this course can be found [here](https://github.com/vonschappler/ZTM-
 
 <hr>
 
+## 02. The Complete 2023 Web Development Bootcamp
+
+
+This course, lectured by Dr. Angela Yu, teaches about the concepts of HTML, CSS and JavaScript. It also have classes about using Bootstrap5, then it goes deeper into the creation of websites using ejs templating, React and connects the front end with a backend coded with Node and Express.
+
+The course also has a good content on Web3 developent, making use of the internet computer (IC) to create criptocurrency wallets and create a NFT project..
+
+The code of this course can be found [here](https://github.com/vonschappler/Web-Bootcamp.git)
+
 ## 04. Web Design for Web Developers
 
 This couse, lectured by Jonas Schmedtmann, teaches the basics of webdesing, using the technologies HTML5 and CSS.

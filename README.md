@@ -6,6 +6,10 @@ The courses are organized here by the date I took them, and I'll do my best to k
 
 In order to make this happen, I am retaking some classes, and the courses linked here will have their own repositories.
 
+Those courses will have their own repositories, and so, it's possible to check them since they were added as submodules of this main repository.
+
+Any new courses taken will be added here, to be kept as refrences of every course I have taken, and their certificates, when available are displayed on this page.
+
 <hr>
 
 ## 01. Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)
@@ -13,6 +17,8 @@ In order to make this happen, I am retaking some classes, and the courses linked
 This course, lectured by ZTM group, teaches about how to create a NodeJS server, linking it with a react front end, as well as providing some introduction to GraphQL and MongoDB.
 
 The code of this course can be found [here](https://github.com/vonschappler/ZTM-NodeJSDev-2023).
+
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-8c61182b-231d-4892-8729-0f93e5afb5dc.jpg' alt='Course certificate'>
 
 <hr>
 
@@ -24,11 +30,19 @@ The course also has a good content on Web3 developent, making use of the interne
 
 The code of this course can be found [here](https://github.com/vonschappler/Web-Bootcamp.git).
 
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-3a2d1bc4-7bcd-41b1-bcaa-f85fd600f84f.jpg' alt='Course certificate'>
+
+<hr>
+
 ## 03. Node.js, Express, MongoDB & More: The Complete Bootcamp 2023
 
 This course, lectured by Jonas Schmedtmann, is a deeper travel when it comes to back-end developing. The course teaches how to make a full and complete, API while using technologies such as Node, Express, MongoDB and templating a server-rendered website using PUG as the render engine.
 
 The code of this course can be found [here](https://github.com/vonschappler/Node-Express-MongoDB-2023.git).
+
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-6f788ea7-7324-4778-a89c-ee781d3746b2.jpg' alt='Course certificate'>
+
+<hr>
 
 ## 04. Web Design for Web Developers
 

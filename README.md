@@ -18,6 +18,8 @@ This course, lectured by ZTM group, teaches about how to create a NodeJS server,
 
 The code of this course can be found [here](https://github.com/vonschappler/ZTM-NodeJSDev-2023).
 
+<details>
+
 <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-8c61182b-231d-4892-8729-0f93e5afb5dc.jpg' alt='Course certificate'>
 
 <hr>
@@ -30,7 +32,10 @@ The course also has a good content on Web3 developent, making use of the interne
 
 The code of this course can be found [here](https://github.com/vonschappler/Web-Bootcamp.git).
 
+<details>
+<summary>Course certificate</summary>
 <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-3a2d1bc4-7bcd-41b1-bcaa-f85fd600f84f.jpg' alt='Course certificate'>
+</details>
 
 <hr>
 
@@ -40,7 +45,10 @@ This course, lectured by Jonas Schmedtmann, is a deeper travel when it comes to 
 
 The code of this course can be found [here](https://github.com/vonschappler/Node-Express-MongoDB-2023.git).
 
+<details>
+<summary>Course certificate</summary>
 <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-6f788ea7-7324-4778-a89c-ee781d3746b2.jpg' alt='Course certificate'>
+</details>
 
 <hr>
 

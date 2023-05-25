@@ -19,9 +19,9 @@ This course, lectured by ZTM group, teaches about how to create a NodeJS server,
 The code of this course can be found [here](https://github.com/vonschappler/ZTM-NodeJSDev-2023).
 
 <details>
-
+<summary>Course certificate</summary>
 <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-8c61182b-231d-4892-8729-0f93e5afb5dc.jpg' alt='Course certificate'>
-
+</details>
 <hr>
 
 ## 02. The Complete 2023 Web Development Bootcamp
@@ -36,7 +36,6 @@ The code of this course can be found [here](https://github.com/vonschappler/Web-
 <summary>Course certificate</summary>
 <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-3a2d1bc4-7bcd-41b1-bcaa-f85fd600f84f.jpg' alt='Course certificate'>
 </details>
-
 <hr>
 
 ## 03. Node.js, Express, MongoDB & More: The Complete Bootcamp 2023
@@ -49,7 +48,6 @@ The code of this course can be found [here](https://github.com/vonschappler/Node
 <summary>Course certificate</summary>
 <img src='https://udemy-certificate.s3.amazonaws.com/image/UC-6f788ea7-7324-4778-a89c-ee781d3746b2.jpg' alt='Course certificate'>
 </details>
-
 <hr>
 
 ## 04. Web Design for Web Developers

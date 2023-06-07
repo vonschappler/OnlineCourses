@@ -10,3 +10,6 @@
 [submodule "Web-Design-HTML5-css"]
 	path = Web-Design-HTML5-css
 	url = https://github.com/vonschappler/Web-Design-HTML5-css
+[submodule "Ultimate-React"]
+	path = Ultimate-React
+	url = .\\Ultimate-React\\

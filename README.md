@@ -55,3 +55,17 @@ The code of this course can be found [here](https://github.com/vonschappler/Node
 This course, lectured by Jonas Schmedtmann, teaches the basics of webdesing, using the technologies HTML5 and CSS.
 
 The code of this course can be found [here](https://github.com/vonschappler/Web-Design-HTML5-css).
+
+<hr>
+
+## 05. The Ultimate React Course 2023: React, Redux and More
+
+This course, lectured by Jonas Schmedtmann, teaches React concepts, from the most basic to the most advanced.
+
+The code of this course can be found [here](https://github.com/vonschappler/Ultimate-React).
+
+<details>
+<summary>Course certificate</summary>
+<img src='' alt='Course certificate'>
+</details>
+<hr>

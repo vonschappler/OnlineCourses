@@ -66,6 +66,6 @@ The code of this course can be found [here](https://github.com/vonschappler/Ulti
 
 <details>
 <summary>Course certificate</summary>
-<img src='' alt='Course certificate'>
+<img src='https://udemy-certificate.s3.amazonaws.com/image/UC-b42e34b5-a46f-4b06-b2ae-d35998212449.jpg?v=1706402934000' alt='Course certificate'>
 </details>
 <hr>

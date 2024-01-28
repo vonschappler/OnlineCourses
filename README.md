@@ -54,7 +54,7 @@ The code of this course can be found [here](https://github.com/vonschappler/Node
 
 This course, lectured by Jonas Schmedtmann, teaches the basics of webdesing, using the technologies HTML5 and CSS.
 
-The code of this course can be found [here](https://github.com/vonschappler/Web-Design-HTML5-css).
+Thos course has no programming code, but the notes about it can be found [here](https://github.com/vonschappler/Web-Design-HTML5-css).
 
 <hr>
 

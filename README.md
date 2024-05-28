@@ -12,7 +12,7 @@ Any new courses taken will be added here, to be kept as refrences of every cours
 
 <hr>
 
-## 01. Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)
+## 01. Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more) - Udemy
 
 This course, lectured by ZTM group, teaches about how to create a NodeJS server, linking it with a react front end, as well as providing some introduction to GraphQL and MongoDB.
 
@@ -24,7 +24,7 @@ The code of this course can be found [here](https://github.com/vonschappler/ZTM-
 </details>
 <hr>
 
-## 02. The Complete 2023 Web Development Bootcamp
+## 02. The Complete 2023 Web Development Bootcamp - Udemy
 
 This course, lectured by Dr. Angela Yu, teaches about the concepts of HTML, CSS and JavaScript. It also have classes about using Bootstrap5, then it goes deeper into the creation of websites using EJS templating (as render engine), React and connects the front end with a backend coded with Node and Express.
 
@@ -38,7 +38,7 @@ The code of this course can be found [here](https://github.com/vonschappler/Web-
 </details>
 <hr>
 
-## 03. Node.js, Express, MongoDB & More: The Complete Bootcamp 2023
+## 03. Node.js, Express, MongoDB & More: The Complete Bootcamp 2023 - Udemy
 
 This course, lectured by Jonas Schmedtmann, is a deeper travel when it comes to back-end developing. The course teaches how to make a full and complete, API while using technologies such as Node, Express, MongoDB and templating a server-rendered website using PUG as the render engine.
 
@@ -50,7 +50,7 @@ The code of this course can be found [here](https://github.com/vonschappler/Node
 </details>
 <hr>
 
-## 04. Web Design for Web Developers
+## 04. Web Design for Web Developers - Udemy
 
 This course, lectured by Jonas Schmedtmann, teaches the basics of webdesing, using the technologies HTML5 and CSS.
 
@@ -58,7 +58,7 @@ Thos course has no programming code, but the notes about it can be found [here](
 
 <hr>
 
-## 05. The Ultimate React Course 2023: React, Redux and More
+## 05. The Ultimate React Course 2023: React, Redux and More - Udemy
 
 This course, lectured by Jonas Schmedtmann, teaches React concepts, from the most basic to the most advanced.
 

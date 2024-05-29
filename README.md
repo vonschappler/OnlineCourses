@@ -24,7 +24,7 @@ The code of this course can be found [here](https://github.com/vonschappler/ZTM-
 </details>
 <hr>
 
-## 02. The Complete 2023 Web Development Bootcamp - Udemy
+## 02. The Complete 2024 Web Development Bootcamp - Udemy
 
 This course, lectured by Dr. Angela Yu, teaches about the concepts of HTML, CSS and JavaScript. It also have classes about using Bootstrap5, then it goes deeper into the creation of websites using EJS templating (as render engine), React and connects the front end with a backend coded with Node and Express.
 

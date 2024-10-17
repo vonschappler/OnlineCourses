@@ -13,3 +13,6 @@
 [submodule "Ultimate-React"]
 	path = Ultimate-React
 	url = https://github.com/vonschappler/Ultimate-React.git
+[submodule "Learn-TypeScript"]
+	path = Learn-TypeScript
+	url = https://github.com/vonschappler/Learn-TypeScript.git
